@@ -1,6 +1,9 @@
 # book
 
+vue3.0项目配置的样式案例。
+
 ## Project setup
+
 ```
 yarn install
 ```
