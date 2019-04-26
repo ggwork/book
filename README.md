@@ -1,6 +1,6 @@
 # book
 
-vue3.0项目配置的样式案例。
+配置一个vue-cli3.0项目的演示案例
 
 ## Project setup
 
